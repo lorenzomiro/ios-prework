@@ -28,6 +28,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
+![CodePath iOS Prework](https://user-images.githubusercontent.com/46176613/144948322-82376515-5514-40b3-a165-cb101fca3784.gif)
+
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
@@ -35,6 +37,8 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Describe any challenges encountered while building the app.
+
+While I have used XCode very often for programming (as it is my IDE of choice), I struggled a bit with making sure the elements I needed for this app would fit together well to become the whole app. Thankfully, when I had issues, I used the CodePath Prework Slack server to get myself unstuck with those issues.
 
 ## License
 
